@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 afb7daf4e7d47e20261df980e3f3c0f69bf0c8a5 developertenzin <tenzinphuljung7@gmail.com> 1492774723 -0500	clone: from git@github.com:developertenzin/adhoc-portfolio.git
+afb7daf4e7d47e20261df980e3f3c0f69bf0c8a5 4b542451f93862cc66655fe6c964963caf1681a6 developertenzin <tenzinphuljung7@gmail.com> 1492775221 -0500	commit: Initialize git. Install foundation. Set up folder structure.
+4b542451f93862cc66655fe6c964963caf1681a6 afb7daf4e7d47e20261df980e3f3c0f69bf0c8a5 developertenzin <tenzinphuljung7@gmail.com> 1492775307 -0500	reset: moving to HEAD~
+afb7daf4e7d47e20261df980e3f3c0f69bf0c8a5 e0b9c92b681f0cd1f99e23cf6a0860d6fc198d2d developertenzin <tenzinphuljung7@gmail.com> 1492775384 -0500	commit: Initialize git. Install foundation. Set up folder structure. Add .gitignore file.
+e0b9c92b681f0cd1f99e23cf6a0860d6fc198d2d 1572319dbce8d1f36b378b5d11d8b91867b496f2 developertenzin <tenzinphuljung7@gmail.com> 1492778925 -0500	commit: Add .editorconfig file. Add app.js. Make sure all files are linked correctly.
+1572319dbce8d1f36b378b5d11d8b91867b496f2 d92082e1f9f25e9f045abb2a580136ccc1cc0072 developertenzin <tenzinphuljung7@gmail.com> 1492781107 -0500	commit: Add profile pic. Add normalize.css. Add html for about section.
+d92082e1f9f25e9f045abb2a580136ccc1cc0072 e3dcc829c7bb7c5961f1dd6592deca4a620af5dd developertenzin <tenzinphuljung7@gmail.com> 1492784411 -0500	commit: Add adhoc-profile-pic. Style basic about div.
+e3dcc829c7bb7c5961f1dd6592deca4a620af5dd cf0f5fdda1276194fae7d782e1f002e8c5e19520 developertenzin <tenzinphuljung7@gmail.com> 1492785996 -0500	commit: Add cta button for downloading cv.
+cf0f5fdda1276194fae7d782e1f002e8c5e19520 e0883d89bc0fa7c196aa3bc30a970689a4fddba2 developertenzin <tenzinphuljung7@gmail.com> 1492814647 -0500	commit: Add thin bar at the top. Changed bio text.
+e0883d89bc0fa7c196aa3bc30a970689a4fddba2 e1f85c40296d8321e3e5c02c9e85736cda5d580f developertenzin <tenzinphuljung7@gmail.com> 1492852522 -0500	commit: Add basic story section with timeline div.
+e1f85c40296d8321e3e5c02c9e85736cda5d580f 8a0d3f9345b43808cbe9b62cb93614e11bbe9c5b developertenzin <tenzinphuljung7@gmail.com> 1492923131 -0500	commit: Add typed.js
+8a0d3f9345b43808cbe9b62cb93614e11bbe9c5b f2e6c348738edac06e26eba1df6e5a950f3372cc developertenzin <tenzinphuljung7@gmail.com> 1492932860 -0500	commit: Add typed animation. Add default my-button class.
+f2e6c348738edac06e26eba1df6e5a950f3372cc 3cf51af1db5f08776e3a29eddd4181f1f952a8f7 developertenzin <tenzinphuljung7@gmail.com> 1492935890 -0500	commit: Add foundations icons svg. Style down arrow.
+3cf51af1db5f08776e3a29eddd4181f1f952a8f7 6181f8061f120d9807caaf556de9bf4944d3b6cc developertenzin <tenzinphuljung7@gmail.com> 1493008831 -0500	commit: Style experience div. Create, Style work, footer, and copyright. Change button tags to 'a' tags.
+6181f8061f120d9807caaf556de9bf4944d3b6cc aa8e38ae7e1efac596dc16940a228865c561b616 developertenzin <tenzinphuljung7@gmail.com> 1493015843 -0500	commit: Add work images. Add/Change/Fix margin,padding on work.
+aa8e38ae7e1efac596dc16940a228865c561b616 b6d4404698c7a32d300890b26c65feaa330f5841 developertenzin <tenzinphuljung7@gmail.com> 1493019657 -0500	commit: Implement makeWordCloud and displayWordCloud functions.
+b6d4404698c7a32d300890b26c65feaa330f5841 e65c93f56dca69e1bdbc62faa90d269feb744769 developertenzin <tenzinphuljung7@gmail.com> 1493025029 -0500	commit: Finalize word cloud. Fix margin for word cloud.
+e65c93f56dca69e1bdbc62faa90d269feb744769 5930722dfa006450f0130c423e508ca096bf3f33 developertenzin <tenzinphuljung7@gmail.com> 1493025398 -0500	commit (merge): Merge with gh-pages to get the bower_components ready.
+5930722dfa006450f0130c423e508ca096bf3f33 3a0a085ba535ada326363d894038d4b4d16b7144 developertenzin <tenzinphuljung7@gmail.com> 1493025856 -0500	commit: Add document.ready function. Remove click trigger on word cloud.
+3a0a085ba535ada326363d894038d4b4d16b7144 05315c88509e035066adad5daeb3c7ed6a05ab3d developertenzin <tenzinphuljung7@gmail.com> 1493027640 -0500	merge gh-pages: Fast-forward
+05315c88509e035066adad5daeb3c7ed6a05ab3d cc3c39d97d1817be02b4d4f95a01b93887c92205 developertenzin <tenzinphuljung7@gmail.com> 1493028641 -0500	merge gh-pages: Fast-forward
+cc3c39d97d1817be02b4d4f95a01b93887c92205 70c5cab777f8d34f84d046d7020fcf15c462eec1 developertenzin <tenzinphuljung7@gmail.com> 1493028882 -0500	commit: Change animation from top to left.
+70c5cab777f8d34f84d046d7020fcf15c462eec1 56849eb9c387582dc73700c1cf4ba8cfc3c2c0e5 developertenzin <tenzinphuljung7@gmail.com> 1493039322 -0500	merge gh-pages: Fast-forward
+56849eb9c387582dc73700c1cf4ba8cfc3c2c0e5 7b6292162563e29ca763b861750615590e83f54d developertenzin <tenzinphuljung7@gmail.com> 1493076298 -0500	commit: Delete previous bio comments from index.html.
+7b6292162563e29ca763b861750615590e83f54d d1bb67a3535e514480a01a83c6ea10a910885e52 developertenzin <tenzinphuljung7@gmail.com> 1493080115 -0500	merge gh-pages: Fast-forward
+d1bb67a3535e514480a01a83c6ea10a910885e52 0107c959f4f788a47a4a2700f7b5e7442bfe944c developertenzin <tenzinphuljung7@gmail.com> 1493152685 -0500	commit: Add meta tags for viewports.
+0107c959f4f788a47a4a2700f7b5e7442bfe944c bc7ee357e9ca0ef86ca5682c57652eeadaacb9ac developertenzin <tenzinphuljung7@gmail.com> 1493266331 -0500	merge gh-pages: Fast-forward
+bc7ee357e9ca0ef86ca5682c57652eeadaacb9ac 84f511968fcd896f08290a07f1f60f4c7db2ccc1 developertenzin <tenzinphuljung7@gmail.com> 1493621991 -0500	commit: Change webpack to gulp.
+84f511968fcd896f08290a07f1f60f4c7db2ccc1 70d50154d1aa3acfc3c1ee8e17e713fda07bbe09 developertenzin <tenzinphuljung7@gmail.com> 1493641629 -0500	merge gh-pages: Fast-forward
+70d50154d1aa3acfc3c1ee8e17e713fda07bbe09 363bc971cdb719af4d52b71452a57953cb1a165c developertenzin <tenzinphuljung7@gmail.com> 1507027645 -0500	commit: Change title in animation
+363bc971cdb719af4d52b71452a57953cb1a165c 1f13cc211c70baefcc044c29ea272ab408f0cc10 developertenzin <tenzinphuljung7@gmail.com> 1507640960 -0500	merge gh-pages: Fast-forward
+1f13cc211c70baefcc044c29ea272ab408f0cc10 f76b343fb1bf42976c8464cdce7d3c8907890439 developertenzin <tenzinphuljung7@gmail.com> 1508994993 -0500	commit: remove bankruptcyjohn
+f76b343fb1bf42976c8464cdce7d3c8907890439 31a88a861e4fdf38d3f04d2e8312c07b93e1fa84 developertenzin <tenzinphuljung7@gmail.com> 1508995190 -0500	merge gh-pages: Fast-forward
